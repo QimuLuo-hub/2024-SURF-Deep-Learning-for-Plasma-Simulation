@@ -66,10 +66,10 @@ Sunflower setup (from the poster): domain $[-1,1]^2$, interface $r(\theta) = 0.4
     └── sunflower/
 ```
 
-**Note:** the adaptive scripts import the base deep-Nitsche solver (`DUNM.Module.*`: networks, Nitsche loss, interface definitions), which is not included in this repository. A self-contained, later version of the 2D and 3D code is in [Gradient-Based-Adaptive-Elliptic-Interface-Problem](https://github.com/QimuLuo-hub/Gradient-Based-Adaptive-Elliptic-Interface-Problem).
+**Note:** the adaptive scripts import the base deep-Nitsche solver (`DUNM.Module.*`: networks, Nitsche loss, interface definitions), which is not included in this repository. A self-contained, later version of the 2D and 3D code is in [2025-Gradient-Based-Adaptive-Elliptic-Interface](https://github.com/QimuLuo-hub/2025-Gradient-Based-Adaptive-Elliptic-Interface).
 
 ## Follow-up
 
 The project was extended to an **energy-based** adaptive indicator and published as:
 
-> Qimu Luo, Ren Zhao. Energy-Based Adaptive Deep Unfitted Nitsche Method for Elliptic Interface Problems. *East Asian Journal on Applied Mathematics*, 16(3): 573–599, 2026. [DOI: 10.4208/eajam.2025-069.100925](https://doi.org/10.4208/eajam.2025-069.100925) · [Code](https://github.com/QimuLuo-hub/Energy-Based-Adaptive-Deep-Unfitted-Nitsche-Method-for-Elliptic-Interface-Problems)
+> Qimu Luo, Ren Zhao. Energy-Based Adaptive Deep Unfitted Nitsche Method for Elliptic Interface Problems. *East Asian Journal on Applied Mathematics*, 16(3): 573–599, 2026. [DOI: 10.4208/eajam.2025-069.100925](https://doi.org/10.4208/eajam.2025-069.100925) · [Code](https://github.com/QimuLuo-hub/2025-EAJAM-Energy-Based-Adaptive-Deep-Unfitted-Nitsche)
